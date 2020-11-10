@@ -5,6 +5,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "sass": "^1.29.0",
     "svelte": "^3.24.0"
   },
   "devDependencies": {
